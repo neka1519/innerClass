@@ -1,5 +1,5 @@
 package com.neka;
-
+//Inner class will be stroedas  -->Outer$Inner.class --->this will be the file name 
 class Outer{
     int a;                  //variable
     public void show(){     //method
